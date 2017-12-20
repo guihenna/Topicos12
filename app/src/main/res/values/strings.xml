@@ -1,11 +1,3 @@
 <resources>
-    <string name="app_name">@string/movies_road</string>
-    <string name="username">Nome de usuário</string>
-    <string name="password">Senha</string>
-    <string name="sign_in">Entrar</string>
-    <string name="invalid_username">Usuário inválido</string>
-    <string name="invalid_password">Senha inválida</string>
-    <string name="movies_road">Movies Road</string>
-    <string name="sinopse">Sinopse</string>
-
+    <string name="app_name">Agenda Aula</string>
 </resources>
